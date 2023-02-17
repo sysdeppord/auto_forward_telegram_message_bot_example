@@ -24,6 +24,7 @@ It is possible to:
 - adding/removing from the forwarding list without deleting the channel (adding a body by sending the user's contact, via "share a contact" in the user's profile
 - deletion of all channels that are in the forwarding database by one command
 - teams have a partial check for a fool and they give an answer to banal mistakes
+/burn_all PARTIALLY IMPLEMENTED
 
 №№№№№№№№№№№№№№№№№№№
 
@@ -49,6 +50,7 @@ It is possible to:
 - додавання/видалення зі списку пересилки  без видалення каналу (додавання тільи шляхом надсилання контакту користувача, через "поділитись контактом" в профілі користувача
 - видалення всіх каналів які є в базі пересилання однією командою
 - команди мають часткову перевірку на дурня і на банальні помилки дають відповідь
+/burn_all РЕАЛІЗОВАНИЙ ЧАСТКОВО
 
 №№№№№№№№№№№№№№№
 
@@ -74,3 +76,4 @@ It is possible to:
 - добавление/удаление из списка пересылки без удаления канала (добавление тела путем отправки контакта пользователя через "поделиться контактом" в профиле пользователя)
 - удаление всех каналов имеющихся в базе пересылки одной командой
 - команды имеют частичную проверку на дурака и на банальные ошибки дают ответ
+/burn_all РЕАЛИЗОВАННЫЙ ЧАСТИЧНО
